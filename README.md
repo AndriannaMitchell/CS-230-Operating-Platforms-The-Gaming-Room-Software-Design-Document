@@ -1,5 +1,5 @@
 # CS-230-Operating-Platforms-The-Gaming-Room-Software-Design-Document[README (1).md](https://github.com/user-attachments/files/33941496/README.1.md)
-# CS 230 Operating Platforms: The Gaming Room Software Design Document
+
 
 This folder contains the software design document I completed for The Gaming Room in CS 230 Operating Platforms at Southern New Hampshire University.
 
